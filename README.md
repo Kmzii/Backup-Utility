@@ -8,8 +8,6 @@ Intuitive Interface: Add or remove folders to be backed up with ease.
 Flexible Destination: Choose the desired location for your backups.
 Progress Tracking: Monitor the backup process with clear visualization of total progress and number of folders.
 User-Friendly Backup: Initiate backups with a single click.
-[Optional: Compression] Consider adding an option to compress backups for reduced storage size (requires an external library like zipfile).
-[Optional: Encryption] For enhanced security, you might explore encryption capabilities (requires libraries like cryptography). These features would need careful implementation and security considerations.
 
 ### Installation
 
